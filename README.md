@@ -1,4 +1,4 @@
-# PP1_CS219
+# Samuel_Mouradian_proj1
 
 
 ## How To Run The Code
